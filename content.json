@@ -1,4 +1,6 @@
 {
   "campo": "conteudo",
-  "campo0": "conteudo novo"
+  "campo novo": "conteudo novo",
+  "mais um campo": "mais um conteudo",
+  "coordenada": "LA180+LO100"
 }
